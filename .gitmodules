@@ -4,3 +4,6 @@
 [submodule "Templates"]
 	path = Templates
 	url = https://github.com/therapies-love-kids/Templates.git
+[submodule "nexus-rh"]
+	path = nexus-rh
+	url = https://github.com/therapies-love-kids/nexus-rh
